@@ -30,5 +30,6 @@
     "note-composer:split-file",
     "note-composer:extract-heading"
   ],
-  "fileSortOrder": "byModifiedTime"
+  "fileSortOrder": "byModifiedTime",
+  "showInlineTitle": false
 }
