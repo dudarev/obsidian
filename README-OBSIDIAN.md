@@ -1,7 +1,7 @@
-# obsidian
+# Obsidian
 
 ## Install
 
 ```sh
-cp -R . /path/to/new/vault/
+cp -R . "/path/to/the new vault"
 ```
